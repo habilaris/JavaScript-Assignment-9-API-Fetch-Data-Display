@@ -1,9 +1,9 @@
 {
-  "name": "tailwindcss-boilerplate",
+  "name": "assignment-9-api-fetch-and-data-display",
   "version": "1.0.0",
   "description": "",
   "license": "ISC",
-  "author": "",
+  "author": "Habil Aris",
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
@@ -14,4 +14,3 @@
     "tailwindcss": "^4.2.1"
   }
 }
-
